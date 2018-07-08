@@ -15,6 +15,7 @@ namespace Rengin_GitHubTest.Controllers
             //Değişiklikler
             int a = 4;
             string name = "Ergin";
+            string name2 = "Ercan";
             decimal a1   =2;
             return View();
         }
