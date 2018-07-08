@@ -11,6 +11,9 @@ namespace Rengin_GitHubTest.Controllers
 
         public ActionResult Index()
         {
+
+            //Değişiklikler
+            int a = 4;
             return View();
         }
     }
