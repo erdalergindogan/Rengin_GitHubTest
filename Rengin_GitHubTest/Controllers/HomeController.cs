@@ -11,10 +11,11 @@ namespace Rengin_GitHubTest.Controllers
 
         public ActionResult Index()
         {
-
+            //abc
             //Değişiklikler
             int a = 4;
             string name = "Ergin";
+            decimal a1   =2;
             return View();
         }
     }
