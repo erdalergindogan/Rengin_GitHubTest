@@ -11,7 +11,7 @@ namespace Rengin_GitHubTest.Controllers
 
         public ActionResult Index()
         {
-
+            //abc
             //Değişiklikler
             int a = 4;
             string name = "Ergin";
